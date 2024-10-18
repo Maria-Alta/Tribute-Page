@@ -32,3 +32,5 @@ figcaption {margin-top: 20px;}
 a {color: black;}
 
 .link {padding-bottom: 0; }
+
+@media (max-width:1024px) {.logo {width:70%; margin-top: -20%; margin-bottom: -20%; margin-right: auto; margin-left: auto;} .photo-background {width: 100vw; display: flex; flex-direction: column;} .sleeve {width: 100vw;}}
